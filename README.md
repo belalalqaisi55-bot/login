@@ -1,4 +1,4 @@
-# Azure Login Action
+ Azure Login Action
 
 - [Azure Login Action](#azure-login-action)
   - [Supported Versions](#supported-versions)
